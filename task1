@@ -1,0 +1,35 @@
+result - odometerValue (odometer_value)
+// (результат на табло одометра)
+
+sort = leftSortedList (left_sorted_list)
+// отсортированный массив входных данных, по возрастанию
+
+result - mappingIdToSalary (mapping_id_to_salary)
+// массив соответствий id - зарплата
+
+length - lengthEncodeWithoutSpaces (length_encode_without_spaces)
+// длина зашифрованной строки, без пробельных сиимволов
+
+result - totalPaintCosts (total_paint_costs)
+// общие затраты краски
+
+result - numberInSelectedSystem (number_in_selected_system)
+// результат в выбранной системе счисления
+
+result - treeHistory (tree_history)
+// история древа жизни
+
+result - balancedParenthesesList (balanced_parentheses_list)
+// список сбалансированных скобочных последовательностей
+
+raznost - difference (difference)
+// Разность - именование на английском, чтобы все понимали
+
+p - pathToFile (path_to_file)
+// путь до файла
+
+e - extension (extension)
+// расширение
+
+unknown - unknownSymbol (unknown_symbol)
+// символ, отсуствующий в таблице кодов
