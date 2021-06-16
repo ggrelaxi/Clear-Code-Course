@@ -1,0 +1,33 @@
+6.1
+
+getValue - getDisagreementsValue (get_disagreements_value)
+getFilter - getSalePointsFilter (get_sale_points_filter)
+formatted - formatDateFromAge (format_date_from_age)
+result - disagreementsList (disagreements_list)
+value - formatedTextForLabel (formated_text_for_label)
+
+6.2
+
+mergedFilters (merged_filters)
+callbacksArray (callbacks_array)
+bubbleSortValues (bubble_sort_values)
+
+
+6.3
+
+getSimSalesFilterValues (get_sim_sales_filter_value)
+mergedProductFilters (merged_product_filters)
+formattedTextForHeader (formattedTextForHeader)
+getSubscribers (get_subscribers)
+
+6.4
+
+valueOfEmailInputAtFormRegistration - enteredEmailValue (entered_email_value)
+
+handlerOfActiveFilterButton - filterButtonHandler (filter_button_handler)
+
+searchBlockedListForBlockedSquares - getBlockedList (get_blocked_list)
+
+activeButtonAtNavigationValue - navigationBtnValue (navigation_btn_value)
+
+filteredTextFromStateToActiveButton - filteredText (filtered_text)
