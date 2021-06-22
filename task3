@@ -1,0 +1,30 @@
+7.1
+
+unknown = isUnknown (is_unknown)
+error = isError (is_error)
+result = isFound (is_found)
+change = isChange (is_change)
+result = sortIsComplete (sort_is_complete)
+
+7.2
+
+done = False
+while done == False
+  ...
+  done = True
+
+7.3
+
+i - actualChar (actual_char)
+j - singleCode (single_code)
+
+7.4
+
+firstNum / lastNum (first_num/last_num)
+beginDownload / finishDownload (begin_download / finish_download)
+
+7.5
+
+first - firstNumber (first_number)
+last - lastNumber (last_number)
+sal - salary (salary)
