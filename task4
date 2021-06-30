@@ -1,0 +1,49 @@
+1.
+
+data - salePointCodes (sale_point_codes) // Пришедший с бека список кодов точек продаж)
+
+2. 
+
+parameters - popupItems (popup_items) // список элементов, для показа во всплывающем окне
+
+3.
+
+setStatus - setSigningStatus (set_signing_status) // установить статус подписания
+
+4.
+
+status - signingStatus (signing_status) // статус подписания
+
+5.
+
+salePointsList - salePointsGroup (sale_point_group) // массив точек продаж, пришедший с бека
+
+6.
+
+result - activePointCode (active_point_code) // код активной точки продаж
+
+7.
+
+index9 - last_active_element (lastActiveElement) // последний элемент в списке активных кодов
+
+8.
+
+session - actualUserSession (actual_user_session) // актуальная сессия пользователя
+
+roleData/rolesData - currentRole/rolesNotion (current_role/roles_notion) (актуальная роль и список представления всех ролей)
+
+9.
+
+values - paginationOptions (pagination_options) // варианты пагинации страницы
+
+10.
+
+key1/key2 - ключи в объекте для сравнения (текущий и следующий) currentKey/nextKey (current_key/next_key)
+
+11.
+
+name - moduleName (module_name) // имя переменной для текущего модуля в итераторе
+
+12.
+
+file - pathToModule (path_to_module) // путь к файлу с модулем, для его загрузки
