@@ -1,0 +1,27 @@
+3.1
+
+interfaceGetData - Api
+
+Users - Customers/Admins
+
+GetUser = UserController
+
+CancelToken - overdueToken
+
+AxiosTransformer - ApiConfig
+
+3.2
+
+Method - ApiMethods
+
+fetch - fetchKKTReport
+
+get - getPointCodeStatus
+
+responseType - ApiResponseType
+
+User.status - User.isLogged
+
+Props - MainStatProps
+
+Component.value - Report.data
