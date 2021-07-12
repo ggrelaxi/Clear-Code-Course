@@ -1,0 +1,23 @@
+1. fetch - getSalePoint (get_sale_points) // получить список точек продаж
+
+2. dictionaryGroupsResponseToOptionGroups - getDictionaryGroups (get_dictionary_groups) // получить группы словарей
+
+3. getData - getPriceFilterOptions (get_price_filter_options) // получить список фильтров по цене
+
+4. calculate - calculateRoundResult (calculate_round_result) // вычислить результат раунда
+
+5. calculatedMathResult - calculateStepResult (calculate_step_result) // вычислить результат шага
+
+6. BrainEvent - runEvenGame (run_even_game) // имя функции должно быть глаголом
+
+7. numberIsEven - isEven (is_even) // начинаться должно с глагола
+
+8. GetRandInt - getRandomNumber (get_random_number) // вообще кривое обозначение
+
+9. brainEven - startGame (start_game) // более четкое имя.
+
+10. getFormatter - getFormattedString (get_formatted_string) // получить отформатированную строку
+
+11. plain - getPlain (get_plain) // имя должно быть глаголом
+
+12. formatter - formattedValueToForis (formatted_value_to_foris) // отформатировать значение для смежной системы
