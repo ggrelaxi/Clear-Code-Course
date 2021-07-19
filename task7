@@ -1,0 +1,11 @@
+1.
+
+Character firstPlayer = Character.warrior(18, 28, 11)
+Character secondPlayer = Character.wizard(11, 14, 32)
+Character thirdPlayer = Character.damager(14, 28, 13)
+
+2.
+
+KKTReports
+UserFactory
+Api
