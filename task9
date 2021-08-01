@@ -1,0 +1,32 @@
+1. Начал подключать и учить typescript, чтобы работать с типизированным JavaScript.
+
+2. Начал изучать библиотеку i18next, для создания локализации для своих приложений.
+
+3. for (let i = 0; i < 10; i++)...
+
+const TASKS = 10;
+
+for (let i = 0; i < TASKS; i++)
+
+Константа заместо магического числа
+
+4.
+
+for (let i = 0; i < 3; i++)..
+
+const ROUND_COUNT = 3
+
+for (let i = 0; i < ROUND_COUNT; i++)
+
+Константа заместо магического числа
+
+5. const hideIndex = getRandomNumber(0, 9)...
+
+const minQuestionCount = 0
+const maxQuestionCount = 10
+
+const hideIndex = getRandomNumber(minQuestinCount, maxQuestionCount)
+
+Константы заместо магических чисел
+
+// TODO. Больших числе в моих программах не использовалось на данным момент. Не могу найти примеров, где можно что-то изменить.
