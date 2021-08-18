@@ -1,0 +1,56 @@
+3.1
+1) <!-- Вкладки подтипов рулонного газона -->
+<div class="tab-content" id="category-rul-podtype">
+
+Мне нравится дополнительно структурировать html разметку, дополняя полезные комментарии
+
+2) Здесь комментарий помогает понять суть кода
+
+#первая высадка
+for i in range(len(desantCords)):
+  x, y = desantCords[i]
+  map[x - 1][y - 1] = "win"
+
+
+
+3.2
+
+1) Здесь можно убрать комментарий. Код вполне понятен
+
+#нарисовали карту
+  map = []
+  for i in range(N):
+      line = []
+      for j in range(M):
+          line.append("bunt")
+      map.append(line)
+      
+2) Здесь именование переменных и их значения, позволяют понять смысл кода. Комментарий можно убрать
+
+#Дальнейший захват
+while victory == False:
+    for i in range(len(desantCords)):
+        x, y = desantCords[i]
+        desantCords.append([x, y + 1])
+        desantCords.append([x, y - 1])
+        desantCords.append([x - 1, y])
+        desantCords.append([x + 1, y])
+
+    for i in range(len(desantCords)):
+        x, y = desantCords[i]
+        if x <= N and y <= M:
+            map[x - 1][y - 1] = "win"
+            
+            
+3) Можно убрать комментарий. По именованию вполне понятен смысл
+
+#координаты текущей точки
+def getCords(value):
+    cords = []
+    for i in range(len(matrix)):
+        for j in range(len(matrix[i])):
+            if matrix[i][j] == value:
+                cords.append(i)
+                cords.append(j)
+                break
+    return cords
